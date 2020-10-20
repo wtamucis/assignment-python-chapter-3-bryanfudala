@@ -142,4 +142,4 @@ for number in range(1, 10):
 print(f"we have {counter} even numbers")
 print("*" * 30)
 
-# BRYAN FUDALA - CIDM 6303
+# BRYAN FUDALA -- CIDM 6303
