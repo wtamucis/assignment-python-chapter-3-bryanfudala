@@ -141,3 +141,5 @@ for number in range(1, 10):
         counter += 1
 print(f"we have {counter} even numbers")
 print("*" * 30)
+
+# BRYAN FUDALA - CIDM 6303
