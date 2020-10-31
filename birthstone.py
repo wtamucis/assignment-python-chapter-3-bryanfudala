@@ -33,4 +33,4 @@ if birth_stone == "NA":
     print("Numeric Month Entered is not within the (1-12) range, please try again")
 else:
     print(f"Your birthstone is: {birth_stone}")
-# BRYAN FUDALA -- CIDM 6303
+# BRYAN FUDALA --  CIDM 6303
